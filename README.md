@@ -49,7 +49,7 @@ Weekly revenue, units, returns and margin by store.
 - **1.26bn** total revenue · **850.49K** units sold · **431.22K** returns · **419.68M** gross margin
 - Revenue by store, revenue by category, sales trend, average gross margin % by store, full store performance table
 
-![Sales Overview](SCREENSHOT/SALES&20OVERVIEW.png)
+![Sales Overview]( ./SCREENSHOT/SALES&20OVERVIEW.png)
 
 ### 2. Inventory Snapshot
 Stock value, dead-stock risk and margin opportunity.
