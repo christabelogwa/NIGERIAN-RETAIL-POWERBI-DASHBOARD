@@ -56,14 +56,14 @@ Stock value, dead-stock risk and margin opportunity.
 - **3.96bn** retail value · **1.42M** stock quantity · **1.89bn** stock cost · **2.07bn** margin opportunity
 - Stock value by category and store, slowest-moving products by weekly supply, negative-stock data quality flag (275 rows)
 
-![Inventory Snapshot](screenshots/02-inventory-snapshot.png)
+![Inventory Snapshot](SCREENSHOT/INVENTORY SNAPSHOT.png)
 
 ### 3. Customer & Accounts Receivable
 Invoicing, collection and aging.
 - **3.78bn** invoiced · **89.8%** collected via bank transfer
 - Invoice status breakdown, cash collection trend, top 10 customers by revenue, payment receivable aging
 
-![Accounts Receivable](screenshots/03-accounts-receivable.png)
+![ACCOUNT RECEIVABLE](SCREENSHOT/ACCOUNT RECEIVABLE.png)
 
 ### 4. Vendor & Accounts Payable
 Billing, payment and aging.
