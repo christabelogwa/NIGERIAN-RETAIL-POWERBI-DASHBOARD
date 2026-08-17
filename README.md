@@ -49,28 +49,22 @@ Weekly revenue, units, returns and margin by store.
 - **1.26bn** total revenue · **850.49K** units sold · **431.22K** returns · **419.68M** gross margin
 - Revenue by store, revenue by category, sales trend, average gross margin % by store, full store performance table
 
-![Sales Overview](./SCREENSHOT/SALES&20OVERVIEW.png)
 
 ### 2. Inventory Snapshot
 Stock value, dead-stock risk and margin opportunity.
 - **3.96bn** retail value · **1.42M** stock quantity · **1.89bn** stock cost · **2.07bn** margin opportunity
 - Stock value by category and store, slowest-moving products by weekly supply, negative-stock data quality flag (275 rows)
 
-![Inventory Snapshot](SCREENSHOT/INVENTORY SNAPSHOT.png)
-
 ### 3. Customer & Accounts Receivable
 Invoicing, collection and aging.
 - **3.78bn** invoiced · **89.8%** collected via bank transfer
 - Invoice status breakdown, cash collection trend, top 10 customers by revenue, payment receivable aging
 
-![ACCOUNT RECEIVABLE](SCREENSHOT/ACCOUNT RECEIVABLE.png)
 
 ### 4. Vendor & Accounts Payable
 Billing, payment and aging.
 - **2.70bn** billed · **379.10M** outstanding · **2.81bn** cash paid out
 - Top vendors by outstanding balance, cash payment trend, bill status breakdown, accounts payable aging
-
-![Accounts Payable](screenshots/04-accounts-payable.png)
 
 ---
 
