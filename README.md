@@ -83,16 +83,21 @@ Full write-up with recommendations: see [`presentation/`](./presentation).
 ## 📁 Repo Structure
 
 ```
+NIGERIAN-RETAIL-POWERBI-DASHBOARD
+│
 ├── README.md
+│
 ├── dashboard/
-│   └── retail-dashboard.pbix          # Power BI source file
-├── screenshots/
-│   ├── 01-sales-overview.png
-│   ├── 02-inventory-snapshot.png
-│   ├── 03-accounts-receivable.png
-│   └── 04-accounts-payable.png
-└── presentation/
-    └── Nigerian Retail Power BI Dashboard - Presentation.pptx
+│   └── Nigerian_Retail_PowerBI_Dashboard.pbix
+│
+├── presentation/
+│   └── Nigerian_Retail_Dashboard_Presentation.pptx
+│
+└── screenshots/
+    ├── sales_overview.png
+    ├── inventory.png
+    ├── accounts_receivable.png
+    └── accounts_payable.png
 ```
 
 ---
