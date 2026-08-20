@@ -109,7 +109,7 @@ NIGERIAN-RETAIL-POWERBI-DASHBOARD
 ├── PRESENTATION/
 │   └── Nigerian_Retail_Dashboard_Presentation.pptx
 │
-└── SCREENSHOTS/
+└── SCREENSHOT/
     ├── sales_overview.png
     ├── inventory.png
     ├── accounts_receivable.png
