@@ -103,13 +103,13 @@ NIGERIAN-RETAIL-POWERBI-DASHBOARD
 │
 ├── README.md
 │
-├── dashboard/
+├── DASHBOARD/
 │   └── Nigerian_Retail_PowerBI_Dashboard.pbix
 │
-├── presentation/
+├── PRESENTATION/
 │   └── Nigerian_Retail_Dashboard_Presentation.pptx
 │
-└── screenshots/
+└── SCREENSHOTS/
     ├── sales_overview.png
     ├── inventory.png
     ├── accounts_receivable.png
