@@ -14,11 +14,27 @@ A 4-store Nigerian retailer tracked sales through GoFrugal POS and accounting th
 
 This project builds one Power BI workbook that lets management move from a high-level number down to the exact store, product, customer, or vendor behind it, without opening either source system.
 
-**Business questions answered:**
-- Which stores and categories drive revenue, and where is margin strongest?
-- Where is stock tied up, and which products are at risk of going stale?
-- How much is owed to the business, and how fast is it being collected?
-- How much does the business owe, and what's coming due?
+## ❓ Business Questions
+
+*Sales*
+- Which stores generate the most revenue, and where is margin strongest?
+- Which products/categories drive sales?
+- Where are returns concentrated?
+
+*Inventory*
+- Which products are overstocked?
+- Which products have negative stock?
+- Which products have dead-stock risk?
+
+*Accounts Receivable*
+- Which customers owe the most?
+- How much is outstanding in total?
+- What does the aging profile look like?
+
+*Accounts Payable*
+- Which vendors have the largest outstanding balances?
+- What is the payment trend over time?
+- Where are payment obligations concentrated?
 
 ---
 
