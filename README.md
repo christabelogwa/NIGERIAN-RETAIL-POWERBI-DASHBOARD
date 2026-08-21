@@ -7,6 +7,13 @@ An end-to-end Power BI project built from a real Nigerian multi-branch retail da
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat)
 
 ---
+ ## Publication & Data Authorization
+
+This project was developed using a real-world Nigerian multi-branch retail and accounting dataset provided for portfolio and analytical purposes.
+
+Permission was granted to publish this project and its supporting materials on GitHub. The dataset has been anonymized to protect confidential and identifying information.
+
+The analysis, data transformations, SQL queries, data model, and Power BI reporting presented in this repository were developed as part of the project work
 
 ## 📌 Project Overview
 
